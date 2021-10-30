@@ -30,10 +30,10 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.width', 400)
 
 # initializing a data frame
-df_ninety_nine_acers_price = pd.DataFrame()
+df_ninety_nine_acres_price = pd.DataFrame()
 
 # 99acers.com has Property Rates & Price Trends divided into cities.
-list_ninety_nine_acers_price_trend_url = []
+list_ninety_nine_acres_price_trend_url = []
 
 # initializing lists (these are columns in data frame)
 scrape_time = []
